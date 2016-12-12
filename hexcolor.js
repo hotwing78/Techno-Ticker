@@ -1,4 +1,4 @@
-// this will be our random color generator
+//random color generator
 function randomHex() {
   var hexVal = 'abcedf0123456789';
   var hexValArr = hexVal.split('');
