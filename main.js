@@ -1,7 +1,3 @@
-// random color generator.
-
-//make sure it gets put on the page
-
 
 
 $(document).ready(function() {
